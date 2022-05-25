@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 1,
-    question: "Ո՞ր դասն է ապահովում րինսպոնսիվ ֆիքսված լայնությամբ կոնտեյներ:",
+    question: "Ո՞ր class-ն է ապահովում րինսպոնսիվ ֆիքսված լայնությամբ կոնտեյներ:",
     answer: ".container",
     options: [
       ".container",
@@ -24,7 +24,7 @@ let questions = [
   },
     {
     numb: 3,
-    question: "Bootstrap grid համակարգը հիմնված է քանի սյունակի վրա:",
+    question: "Bootstrap grid համակարգը քանի սյունակի վրա է հիմնված:",
     answer: "12",
     options: [
       "12",
