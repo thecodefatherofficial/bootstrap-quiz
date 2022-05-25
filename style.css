@@ -291,6 +291,21 @@ background: linear-gradient(145deg, rgba(162,0,255,1) 0%, rgba(175,0,255,1) 100%
     margin-right: 5px;
     margin-top: 5px;
 }
+
+
+.add-question .right{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.add-question .right input{
+    text-align: center;
+}
+.add-question .right label{
+    white-space: nowrap;
+    margin-right: 10px;
+}
+
 .start_btn,
 .info_box,
 .quiz_box,
