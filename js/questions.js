@@ -8,7 +8,7 @@ let questions = [
       ".container",
       ".container-fluid",
       ".container-fixed",
-      "չգիդեմ"
+      "չգիտեմ"
     ]
   },
     {
@@ -19,7 +19,7 @@ let questions = [
       ".container-fixed",
       ".container-fluid",
       ".container",
-      "չգիդեմ"
+      "չգիտեմ"
     ]
   },
     {
